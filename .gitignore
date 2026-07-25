@@ -1,0 +1,8 @@
+# 1. Ignore everything in the project
+
+*
+
+# 2. Un-ignore only the specific files you want to keep
+!main.py
+!README.md
+!.gitignore
